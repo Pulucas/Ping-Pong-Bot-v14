@@ -1,0 +1,15 @@
+{
+  "name": "ping-pong-bot-v14",
+  "version": "1.0.0",
+  "description": "The Best v14 Bot Ever!",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1"
+  }
+}
