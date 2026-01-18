@@ -1,4 +1,4 @@
-import { Events, Client, GatewayIntentBits, OAuth2Scopes, PermissionFlagsBits, messageLink } from "discord.js"
+import { Events, Client, GatewayIntentBits, OAuth2Scopes, PermissionFlagsBits } from "discord.js"
 import { config } from "dotenv"
 config({quiet: true})
 const token = process.env.token
